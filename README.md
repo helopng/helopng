@@ -16,7 +16,7 @@
 ——让暴风雨来得更猛烈些吧！。
 >
 >
->                                                                                                          -- 《海燕》
+>                                                                                                          by 高尔基《海燕》
 <!--
 **helopng/helopng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,7 +31,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 我是谁
-- 🌱 我在哪
-- 👯 我在干啥
